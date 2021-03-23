@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.react-learnings {
+  margin-top: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 62px;
+}
+
+.react-logo {
+  height: 200px;
+  width: 200px;
+}
+
+.learnings {
+  -webkit-box-flex: 20%;
+      -ms-flex: 20%;
+          flex: 20%;
+}
+/*# sourceMappingURL=react.css.map */

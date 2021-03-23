@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+main{
+    // border: 2px solid red;
+    color:orangered;
+    margin: 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 10px;
+}
+h1{
+    font-size: 5rem;
+}
+// header{
+//     border-bottom: 2px solid orangered;
+// }
+.home{
+    flex: 50%;
+    // border: 2px solid black;
+   
+}
+
+.home-logo{
+    height: 300px;
+    width: 300px;  
+    
+}
+section h2{
+    align-items: center;
+    margin-bottom: 12px;
+   
+}
+button{
+    flex:100%;
+    display: inline;
+    background-color: orangered;
+    border: 2px solid orangered;
+    margin-right:25px;
+    border-radius: 5px;
+    color:white;
+    height:5vh;
+    width: 15vh;
+    font-size:1.5rem;
+    cursor: pointer;
+    margin-top: 5px;
+    
+}

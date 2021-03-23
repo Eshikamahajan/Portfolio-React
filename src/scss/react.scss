@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.react-learnings{
+    margin-top: 80px;
+    display: flex;
+    gap: 62px;
+}
+.react-logo{
+    height: 200px;
+    width: 200px;  
+    
+}
+.learnings{
+    // border: 2px solid red;
+    flex: 20%;
+}
+// figcaption{
+//     background: orangered;
+//     color:white
+// }
